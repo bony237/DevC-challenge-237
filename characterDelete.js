@@ -11,3 +11,7 @@ function characterDel(theString) {
 
 // Exemple
 console.log(characterDel('Ceci est une phrase'));    // --> result : 'eci est une phras'
+
+
+
+
